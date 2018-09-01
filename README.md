@@ -1,1 +1,3 @@
 # TypeScriptSample
+ReadMe‚ğ•ÒW’†B
+editting ReadMe now....
