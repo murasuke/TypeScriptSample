@@ -1,1 +1,2 @@
 # TypeScriptSample
+ReadMeを編集
